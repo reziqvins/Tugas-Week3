@@ -7,7 +7,6 @@ fun main () {
     var disc15 = belanja * 15 / 100
     var disc5 = belanja * 5 / 100
     var disc10 = belanja * 10 / 100
-    var aku =("pembeli 1 mendapat diskon 15% dari")
 
 
 
